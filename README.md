@@ -1,5 +1,5 @@
 # Dockerfile for Samsung Tizen Studio GUI
-Installs the Tizen Studio IDE into a Docker container
+Installs the Tizen Studio IDE into a Docker container. [Available on Docker Hub](https://hub.docker.com/r/ubergeek77/tizen-studio-ide).
 
 ## General Information
 Under Linux, Tizen Studio will not run properly under any distribution other than Ubuntu, even if the required dependencies are installed (which is ridiculous). This Dockerfile was created as a "compatibility layer" to use Tizen Studio on non-Ubuntu Linux systems.
